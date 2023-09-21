@@ -1,5 +1,6 @@
 # Neural-Collaborative-Filtering
-본 repository는 Neural Collaborative Filtering (2017) 를 구현한 코드를 위한 공간입니다.
+Repository for implementing Neural Collaborative Filtering (2017) 
+
 ![image](https://github.com/ImJaeSung/Neural-Collaborative-Filtering/assets/113405066/0daa12b2-0b27-4288-a22b-4ab47f0110ab)
 
 
