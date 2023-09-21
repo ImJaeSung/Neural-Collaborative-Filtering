@@ -35,7 +35,7 @@ Download dataset : http://grouplens.org/datasets/movielens/1m/ (논문 5p)
 |-|With Pre-training|Without Pre-training|
 |-------|-----|-----|
 |Factors|HR@10|HR@10|
-|8|0.0.4259|0.4776|
+|8|0.4259|0.4776|
 
 2. HR@10 of MLP with different layers.
 
