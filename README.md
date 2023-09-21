@@ -1,6 +1,7 @@
 # Neural-Collaborative-Filtering
 본 repository는 Neural Collaborative Filtering (2017) 를 구현한 코드를 위한 공간입니다.
-dataset : http://grouplens.org/datasets/movielens/1m/ (논문 5p)
+
+Download dataset : http://grouplens.org/datasets/movielens/1m/ (논문 5p)
 
 ### code
 
@@ -24,13 +25,13 @@ dataset : http://grouplens.org/datasets/movielens/1m/ (논문 5p)
 1. Performance of NeuMF with and without pre-training.
 
 |-|With Pre-training|Without Pre-training|
-|Factors|HR@10|HR@10|
 |-------|-----|-----|
+|Factors|HR@10|HR@10|
 |8|0.6950|0.7230|
 
 |-|With Pre-training|Without Pre-training|
-|Factors|HR@10|HR@10|
 |-------|-----|-----|
+|Factors|HR@10|HR@10|
 |8|0.0.4259|0.4776|
 
 2. HR@10 of MLP with different layers.
